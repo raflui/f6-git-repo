@@ -1,1 +1,2 @@
 It is important because even a small change to infrastructure configuration can cause system failures or downtime. Git makes it easy to review changes, track who made them, and revert to a previous stable version if something goes wrong. This ensures reliability, safety and accountability. 
+Because Git automatically maintains a clean record every change, it is superior to manual file management. By enabling team members to safely merge revisions, Git also Facilitates collaborators by preventing confusion created by several file versions, such as "final_final_v3."
