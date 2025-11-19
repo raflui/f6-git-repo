@@ -1,0 +1,1 @@
+It is important because even a small change to infrastructure configuration can cause system failures or downtime. Git makes it easy to review changes, track who made them, and revert to a previous stable version if something goes wrong. This ensures reliability, safety and accountability. 
